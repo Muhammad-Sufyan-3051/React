@@ -12,6 +12,10 @@ function App() {
 
       <Intro />
 
+      <Education />
+
+      <Footer />
+
     </div >
 
   );
