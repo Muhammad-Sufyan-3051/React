@@ -1,10 +1,19 @@
 import './App.css';
+import Nav from './components/Nav';
+import Intro from './components/Intro';
+import Education from './components/Education';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <h1 className='App-logo'>React Web</h1>
+    <div>
+
+      <Nav />
+
+      <Intro />
+
     </div >
+
   );
 }
 
